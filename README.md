@@ -7,7 +7,17 @@
 
 - 🔭 I’m currently working on [Cypress e2e test automation](https://github.com/TheSRK/pom-using-cypress-cucumber)
 
-- 💬 Ask me about **Java, Selenium WebDriver**
+- 🌱 I’m currently learning **Docker, AWS, and Apache Kafka**
+
+- 👨‍💻 All of my projects are available at [https://github.com/TheSRK/](https://github.com/TheSRK/)
+
+- 📝 I regularly write articles on [https://medium.com/@shoeib_shargo](https://medium.com/@shoeib_shargo)
+
+- 💬 Ask me about **Java, Selenium WebDriver, TestNG, Jenkins**
+
+- 📫 How to reach me **shargo3554@gmail.com**
+
+- ⚡ Fun fact **Bugs are not features.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
