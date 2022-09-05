@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shoeib Shargo</h1>
-<h3 align="center">An aspiring SDET having 3+ years of Full Stack QA experience in varieties of tech industries.</h3>
+<h3 align="center">An aspiring SDET having 3+ years of Full Stack QA experience in various tech industries.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thesrk&label=Profile%20views&color=0e75b6&style=flat" alt="thesrk" /> </p>
 
