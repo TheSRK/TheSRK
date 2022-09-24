@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thesrk" alt="thesrk" /></a> </p>
 
-- 🔭 I’m currently working on [Cypress e2e test automation](https://github.com/TheSRK/pom-using-cypress-cucumber)
+- 🔭 I’m currently working on [Rest Assured API Test Automation](https://github.com/TheSRK/Rest-Assured-API-Test-Automation)
 
 - 🌱 I’m currently learning **Docker, AWS, and Apache Kafka**
 
