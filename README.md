@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Shoeib Shargo</h1>
 <h3 align="center">An aspiring SDET having 3+ years of Full Stack QA experience in various tech industries. Proficient in Java
 programming language with working knowledge of Selenium WebDriver and TestNG. Experienced in API test automation
-using Rest Assured and Postman. Well versed in JavaScript and Cypress end-to-end automation framework. Familiar with
+using Rest Assured and Postman. Well-versed in JavaScript and Cypress end-to-end automation framework. Familiar with
 Jenkins CI/CD pipeline and Docker.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thesrk&label=Profile%20views&color=0e75b6&style=flat" alt="thesrk" /> </p>
 
 
-- 🔭 I’m currently working on [Rest Assured API Test Automation](https://github.com/TheSRK/Rest-Assured-API-Test-Automation)
+- 🔭 I’m currently developing the framework for a react-native app using Appium 2.0
 
 - 🌱 I’m currently learning **Docker, AWS, and Apache Kafka**
 
