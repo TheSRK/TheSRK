@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shoeib Shargo</h1>
-<h3 align="center">An aspiring SDET having 4+ years of Full Stack QA experience in various tech industries. Proficient in Java
+<h3 align="center">Highly skilled SDET having 5 years of Full Stack QA experience in various tech industries. Proficient in Java
 programming language with working knowledge of Selenium WebDriver and TestNG. Experienced in API test automation
 using Rest Assured and Postman. Well-versed in JavaScript and Cypress end-to-end automation framework. Familiar with
 Jenkins CI/CD pipeline and Docker.</h3>
