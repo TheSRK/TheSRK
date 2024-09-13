@@ -9,7 +9,7 @@ Jenkins CI/CD pipeline and Docker.</h3>
 
 - 🔭 I’m currently developing **the framework for a react-native app using Appium 2.0**
 
-- 🌱 I’m currently learning **Docker, AWS, and Apache Kafka**
+- 🌱 I’m currently learning **Kubernetes**
 
 - 👨‍💻 All of my projects are available at [https://github.com/TheSRK/](https://github.com/TheSRK/)
 
